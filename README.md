@@ -24,7 +24,7 @@ Resume Screening/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/adarshpheonix2810/Resume-Screening.git
    cd Resume Screening
    ```
 2. Install the required packages:
